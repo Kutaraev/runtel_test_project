@@ -1,0 +1,10 @@
+aiohttp==3.11.11
+SQLAlchemy==2.0.37
+asyncpg==0.30.0
+pydantic==2.10.5
+pydantic-settings==2.7.1
+alembic==1.14.1
+jsonschema==4.23.0
+aiofiles==24.1.0
+passlib==1.7.4
+load-dotenv==0.1.0

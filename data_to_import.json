@@ -1,0 +1,30 @@
+[
+    {"username": "test_user_1", 
+    "password": "pass_1", 
+    "profile": {"firstname": "name_1", "lastname": "lastame_1"},
+    "animals": [{"type": "cat", "name": "cat_name", "age": 1}, {"type": "dog", "name": "dog_name", "age": 3}]
+    },
+
+    {"username": "test_user_2", "password": "pass_2"},
+
+    {"username": "test_user_3", "password": "pass_3"},
+
+    {"username": "test_user_4", "password": "pass_4",
+    "animals": [{"type": "lizard", "name": "lizard_name", "age": 7}]
+    },
+
+    {"username": "test_user_5", 
+    "password": "pass_5",     
+    "profile": {"firstname": "name_5", "lastname": "lastame_5"}
+    },
+
+    {"username": "test_user_6", "password": "pass_6"},
+    {"username": "test_user_7", "password": "pass_7"},
+    {"username": "test_user_8", "password": "pass_8"},
+    {"username": "test_user_9", "password": "pass_9"},
+    {"username": "test_user_10", "password": "pass_10"},
+    {"username": "test_user_11", "password": "pass_11"},
+    {"username": "test_user_12", 
+    "password": "pass_12",     
+    "profile": {"firstname": "name_12", "lastname": "lastame_12"}}
+]
