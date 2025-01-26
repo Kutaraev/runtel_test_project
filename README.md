@@ -72,7 +72,7 @@ curl --location --request DELETE 'http://0.0.0.0:8080/users/8'
 ```
    
 ```
-#### Ресурс profile  
+### Ресурс profile  
 **Получить профиль пользователя**  
 Пример запроса:
 ```
@@ -114,15 +114,8 @@ curl --location --request DELETE 'http://0.0.0.0:8080/users/6/profile'
  
 ```
 
-#### Ресурс animals  
-Пример запроса:
-```
-curl --location --request DELETE 'http://0.0.0.0:8080/users/6/profile'
-```
-Пример ответа:
-```
- 
-```
+### Ресурс animals  
+
 **Получить список животных пользователя**  
 Пример запроса:
 ```
